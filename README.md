@@ -1,1 +1,1 @@
-# rsschool-cv
+`https://ustalostb.github.io/rsschool-cv/cv`
